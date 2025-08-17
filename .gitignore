@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.env
+.venv
+.env*/
+venv/
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+/*.egg
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.coverage*
+
+# Local data
+/data/Medical_book.pdf
+
+# Misc
+.DS_Store
+Thumbs.db
